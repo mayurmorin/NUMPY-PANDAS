@@ -10,7 +10,9 @@ Assignment Task 1.1.PNG file contains screen shot of Task 1.1.
 
 Assignment Task 2.1.PNG	file contains screen shot of Task 2.1.
 
-Assignment Task 2.2.PNG	file contains screen shot of Task 2.2.
+Assignment Task 2.2-OutPut-Part1.PNG	file contains screen shot of Task 2.2 as Part 1.
+
+Assignment Task 2.2-OutPut-Part2.PNG	file contains screen shot of Task 2.2 as Part 2.
 
 Assignment Task 2.3.PNG	file contains screen shot of Task 2.3.
 
